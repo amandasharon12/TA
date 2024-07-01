@@ -3,7 +3,7 @@ numpy
 pandas 
 time
 Image
-opencv-python
+opencv-python-headless==4.5.1.48
 graycomatrix, graycoprops
 entropy as scipy_entropy
 joblib
