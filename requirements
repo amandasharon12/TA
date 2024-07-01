@@ -3,7 +3,7 @@ numpy
 pandas 
 time
 Image
-cv2
+opencv-python
 graycomatrix, graycoprops
 entropy as scipy_entropy
 joblib
