@@ -4,7 +4,8 @@ pandas
 time
 Image
 opencv-python-headless
-graycomatrix, graycoprops
+graycomatrix
+graycoprops
 entropy as scipy_entropy
 joblib
 load_model
