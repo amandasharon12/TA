@@ -3,8 +3,7 @@ numpy
 pandas
 Image
 opencv-python-headless
-greycomatrix
-greycoprops
+skimage.feature
 entropy
 joblib
 load_model
