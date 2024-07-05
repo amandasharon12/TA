@@ -1,6 +1,6 @@
 streamlit 
 numpy
-pandas 
+pandas==1.4.2
 time
 Image
 opencv-python-headless
