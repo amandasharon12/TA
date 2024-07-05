@@ -3,7 +3,7 @@ numpy
 pandas
 Image
 opencv-python-headless
-skimage.feature
+scikit-image[data] >= 0.19
 entropy
 joblib
 load_model
