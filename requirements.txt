@@ -6,6 +6,6 @@ opencv-python-headless
 scikit-image[data] >= 0.19
 entropy
 joblib
-load_model
+keras.models 
 base64
 BytesIO
