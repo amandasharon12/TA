@@ -1,7 +1,6 @@
 streamlit 
 numpy
-pandas==1.4.2
-time
+pandas
 Image
 opencv-python-headless
 graycomatrix
