@@ -7,5 +7,4 @@ scikit-image[data] >= 0.19
 entropy
 joblib
 keras.models 
-base64
-BytesIO
+io
