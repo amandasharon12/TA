@@ -6,7 +6,7 @@ Image
 opencv-python-headless
 graycomatrix
 graycoprops
-entropy as scipy_entropy
+entropy
 joblib
 load_model
 base64
